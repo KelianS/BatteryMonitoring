@@ -1,7 +1,6 @@
 #include "header.h"
 
 
-
 int ConfigureSW2(){
     //Port RJ5
     TRISJbits.TRISJ5 = 1; //En entrée
